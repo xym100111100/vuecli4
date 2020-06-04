@@ -99,10 +99,10 @@ html {
   background: url(./assets/img/button.png) no-repeat;
   background-size: 100%;
   background-position:center;
-
   color: white;
   width: 63%;
   margin: 0.4rem auto 0;
+  font-size: 0.4rem;
 }
 .content-remarks {
   width: 80%;
@@ -141,7 +141,7 @@ html {
 }
 .footer {
   background: white;
-  height: 6vh;
+  height: 0.8rem;
   position: fixed;
   z-index: 100;
   bottom: 0;
