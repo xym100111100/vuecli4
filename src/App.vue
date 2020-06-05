@@ -50,6 +50,8 @@ html {
   font-family: initial;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    height: 100vh;
+    overflow: hidden;
 }
 
 .header {
@@ -64,7 +66,7 @@ html {
   height: 0.5rem;
 }
 .main {
-  height: 100vh;
+  height: 100%;
   background: url(./assets/img/back.png) no-repeat;
   background-size: 100%;
   display: flex;
